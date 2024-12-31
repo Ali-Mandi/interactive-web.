@@ -1,4 +1,4 @@
 // filepath: /C:/Users/Dcc7h/assignment/script.js
-document.addEventListener('DOMContentLoaded', () => {
-    alert('Page has loaded!');
-});
+window.onload = function () {
+    alert("Welcome to the interactive web page!");
+};
